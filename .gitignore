@@ -2,6 +2,7 @@
 #   README.md, assets/ (light + dark SVGs) and this file.
 # Everything else stays on this machine. It is ignored by default, so a new
 # local file can never be pushed by accident. Kept locally:
+#   PROJECT_CONTEXT.md   local project notes and status (read this first)
 #   profile.yml          content source (edit this, then rebuild)
 #   scripts/ templates/  the generator and its checks
 #   fonts/               Space Grotesk + JetBrains Mono (only needed to build)
@@ -9,7 +10,7 @@
 #   .github/             the optional monthly rebuild workflow (unused while the build is local)
 #   _reference/          the original design kit, kept for future changes
 #   preview.html         local review page
-#   .venv/ and editor config  local tooling
+#   .venv/, editor and assistant config  local tooling
 /*
 !/README.md
 !/assets/
